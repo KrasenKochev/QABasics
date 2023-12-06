@@ -1,0 +1,4429 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://trainingsoftuni1.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-1]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-1">Creation of Topic,(Title) outside of valid partition, at the minimum character border</a>
+            <span class="subText">
+               Created: 07/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10013-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    4title.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'>1. In order to create a new forum topic<br/>
+2. As an existing user<br/>
+3. I populate valid body content and a tittle with less characters than the allowed and submit the form.</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'>1. Staging forum: <a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> <br/>
+2. An existing user that is successfully registered and logged in<br/>
+3. The user has access to the forum section where they can create a new topic</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic content</td>
+<td class='confluenceTd'>“Lets do this!”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 4 characters as a Title content</td>
+<td class='confluenceTd'>“Four”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up with error message appears.<br/>
+2.Error message is “Title must be at least 5 characters”<br/>
+3.New topic is not created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10003"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">08/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10003"><td bgcolor="#ffffff">
+            <p>The title characters count cannot be below 5 and above 255.</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-2]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-2">Creation of Topic, (Title) at the border of valid partition(inside), at the minimum characters border</a>
+            <span class="subText">
+               Created: 08/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10014-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    5title.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid body content and a tittle with characters than are allowed and on the minimum border and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic content</td>
+<td class='confluenceTd'>“Lets do this!”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 5 characters as a Title content</td>
+<td class='confluenceTd'>“Five5”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'><ol>
+	<li>The ‘Create a new Topic’ window disappeared</li>
+	<li>The Topic is created and the user is redirected to the topic view</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10001"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">08/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10001"><td bgcolor="#ffffff">
+            <p>The minimum characters for a title is 5 and maximum is 255 allowed .</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-3]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-3">Creation of Topic, (Title) at the border of valid partition(inside), at the maximum characters border</a>
+            <span class="subText">
+               Created: 08/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10015-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    255title.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid body content and a tittle with characters than are allowed and on the maximum border and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic content</td>
+<td class='confluenceTd'>“Lets do this one more time”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 20 characters as a Title content</td>
+<td class='confluenceTd'><b>255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255</b></td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'><ol>
+	<li>The ‘Create a new Topic’ window disappeared</li>
+	<li>The Topic is created and the user is redirected to the topic view</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10002"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">08/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10002"><td bgcolor="#ffffff">
+            <p>The minimum characters for a title is 5 and maximum is 255 allowed .</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-4]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-4">Creation of Topic , (Title) outside of valid partition, at the maximum character border</a>
+            <span class="subText">
+               Created: 08/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10016-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    256title.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid body content and a tittle with more characters than the allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic content</td>
+<td class='confluenceTd'>"Lets input more words"</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 256 characters as a Title content</td>
+<td class='confluenceTd'><b>255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 2551</b></td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up with error message appears.<br/>
+2.Error message is “Title can’t be more than 255 characters”<br/>
+3.New topic is not created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10004"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">08/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10004"><td bgcolor="#ffffff">
+            <p>The minimum title character count is 5 and maximum is 255.</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-5]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-5">Creation of Topic,(Body) outside of valid partition, at the minimum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10017-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    9body.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid title content and a body with less characters than the allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic title</td>
+<td class='confluenceTd'>“CatSayMqy”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 9 characters as a  body content</td>
+<td class='confluenceTd'>“nineNine9”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up with error message appears.<br/>
+2.Error message is “Post must be at least 10 characters”<br/>
+3.New topic is not created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10005"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10005"><td bgcolor="#ffffff">
+            <p>The minimum characters for a body is 10 and maximum is <em>32000</em></p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-6]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-6">Creation of Topic,(Body) inside of valid partition, at the minimum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10018-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    10body.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid title content and a body with exactly the minimum characters that are allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic title</td>
+<td class='confluenceTd'>“CatSayMqy”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 10 characters as a  body content</td>
+<td class='confluenceTd'>“nineNine99”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.The ‘Create a new Topic’ window disappeared<br/>
+2.The user is redirected to the topic view<br/>
+3.New topic is created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10014"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10014"><td bgcolor="#ffffff">
+            <p>The minimum characters for a body is 10 and maximum is <em>32000</em></p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-7]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-7">Creation of Topic,(Body) inside of valid partition, at the maximum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10019-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    3200body.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid title content and a body with exactly the maximum characters that are allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic title</td>
+<td class='confluenceTd'>“CatSayMqy”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 3200 characters as a  body content</td>
+<td class='confluenceTd'>text with 3200 random characters</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.The ‘Create a new Topic’ window disappeared<br/>
+2.The user is redirected to the topic view<br/>
+3.New topic is created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10015"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10015"><td bgcolor="#ffffff">
+            <p>The minimum characters for a body is 10 and maximum is <em>32000</em></p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-8]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-8">Creation of Topic,(Body) outside of valid partition, at the maximum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10020-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a new forum topic</li>
+	<li>As an existing user</li>
+	<li>I populate valid title content and a body with more characters than the allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new topic</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Test Steps:</b></th>
+<th class='confluenceTh'><b>Data:</b></th>
+<th class='confluenceTh'><b>Expected result:</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click the button 'New Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.Window ‘Create a new Topic’ appears</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Enter a descriptive topic title</td>
+<td class='confluenceTd'>“CatSayMqy”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Input 32001 characters as a  body content</td>
+<td class='confluenceTd'>a random generated text with 32001 characters</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Create Topic'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up with error message appears.<br/>
+2.Error message is “An error occurred: Body is limited to 32000 characters; you entered 32001.”<br/>
+3.New topic is not created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10016"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10016"><td bgcolor="#ffffff">
+            <p>The minimum characters for a body is 10 and maximum is <em>32000</em></p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-9]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-9">Creation of Comment, outside of valid partition, at the minimum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10021-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    2comm.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a a comment on existing topic</li>
+	<li>As an existing user<br/>
+  3.I populate a body content with less characters than the allowed and    submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a body content for the new comment in the provided field, that is below the minimum 3 characters length.</td>
+<td class='confluenceTd'>“21”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Reply” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.An Error message pop-up “Post must be at least 3 characters”.<br/>
+2.The comment is not created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10006"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10006"><td bgcolor="#ffffff">
+            <p>The comment have a minimum of 3 characters and maximum of 3200</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-10]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-10">Creation of Comment, inside of valid partition, at the minimum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10022-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    3commm.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a a comment on existing topic</li>
+	<li>As an existing user<br/>
+  3.I populate a body content with exactly the minimum characters that are allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a body content for the new comment in the provided field, that is exactly the minimum 3 characters length.</td>
+<td class='confluenceTd'>“213”</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Reply” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.The window for creating the comment disappears.<br/>
+2.The comment appears below the topic<br/>
+3.The comment is created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10007"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10007"><td bgcolor="#ffffff">
+            <p>The comment have a minimum of 3 characters and maximum of 3200</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-11]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-11">Creation of Comment, inside of valid partition, at the maximum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10023-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    32000comm.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a a comment on existing topic</li>
+	<li>As an existing user<br/>
+  3.I populate a body content with exactly the maximum characters that are allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a body content for the new comment in the provided field, that is exactly the maximum 32000 characters length.</td>
+<td class='confluenceTd'>a random generated text with 32000 characters</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Reply” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.The window for creating the comment disappears.<br/>
+2.The comment appears below the topic<br/>
+3.The comment is created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10008"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10008"><td bgcolor="#ffffff">
+            <p>The comment have a minimum of 3 characters and maximum of 3200</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-12]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-12">Creation of Comment, outside of valid partition, at the maximum character border</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10024-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    32001comm.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a a comment on existing topic</li>
+	<li>As an existing user<br/>
+  3.I populate a body content with more characters than the allowed and submit the form.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a body content for the new comment in the provided field(32001 char), that is above the minimum of 3200 characters length.</td>
+<td class='confluenceTd'>a random generated text of 32001 characters</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Reply” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.An Error message pop-up “An error occurred: Body is limited to 32000 characters; you entered 32001.”.<br/>
+2.The comment is not created</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10009"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10009"><td bgcolor="#ffffff">
+            <p>The comment have a minimum of 3 characters and maximum of 3200</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-13]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-13">Upload of a picture file, inside of valid partition, at the minimum count</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10025-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    1pic.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a upload a picture/s on existing topic</li>
+	<li>As an existing user<br/>
+  3.I try to select a picture file/s and upload it.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a valid body content for the new comment in the provided field(.</td>
+<td class='confluenceTd'>"Let's upload a doggo!"</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Upload” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up window for selecting a file pops up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>7.Select a picture file in the allowed format and click on the “Open” button from the pop-up window.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.After selecting and uploading it a preview of the picture is shown.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>8.Click on the “Reply” button</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.The create comment window is closed.<br/>
+2.The comment is created with the uploaded image attached successfully.</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10013"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10013"><td bgcolor="#ffffff">
+            <p>The allowed minimum pic files are 1 and maximum 5 , the allowed format is JPG, JPEG, PNG.</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-14]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-14">Upload of a picture file, inside of valid partition, at the maximum count</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10026-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    5pic.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a upload a picture/s on existing topic</li>
+	<li>As an existing user<br/>
+  3.I try to select a picture file/s and upload it.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a valid body content for the new comment in the provided field(.</td>
+<td class='confluenceTd'>"Let's upload a doggo!"</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Upload” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up window for selecting a file pops up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>7.Select 5 picture file in the allowed format and click on the “Open” button from the pop-up window.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.After selecting and uploading the files a preview of the pictures is shown.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>8.Click on the “Reply” button</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.The create comment window is closed.<br/>
+2.The comment is created with the uploaded images attached successfully.</td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10012"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10012"><td bgcolor="#ffffff">
+            <p>The allowed minimum pic files are 1 and maximum 5 , the allowed format is JPG, JPEG, PNG.</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-15]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-15">Upload of a picture file, outside of valid partition, at the maximum count</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10027-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            BVA, EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    6pic.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a upload a picture/s on existing topic</li>
+	<li>As an existing user<br/>
+  3.I try to select a picture file/s and upload it.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a valid body content for the new comment in the provided field(.</td>
+<td class='confluenceTd'>"Let's upload a doggo!"</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Upload” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up window for selecting a file pops up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>7.Select 6 picture files in the allowed format and click on the “Open” button from the pop-up window.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.After selecting and clicking on “Open” button an error message “Sorry, you can only upload 5 files at a time.” is shown.</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>2.The picture files are not uploaded.|</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10010"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10010"><td bgcolor="#ffffff">
+            <p>The allowed minimum pic files are 1 and maximum 5 , the allowed format is JPG, JPEG, PNG.</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEL-16]&nbsp;<a href="https://trainingsoftuni1.atlassian.net/browse/TEL-16">Upload of a picture file, outside of valid partition, at the minimum count, as invalid picture file</a>
+            <span class="subText">
+               Created: 09/Jul/23                   &nbsp;Updated: 09/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://trainingsoftuni1.atlassian.net/secure/BrowseProject.jspa?id=10003">TelerikThirdLectureForumInhomeActivity</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_reporter_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10028-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            EP                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://trainingsoftuni1.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    0pic.PNG &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Narrative/Description:</b></td>
+<td class='confluenceTd'><ol>
+	<li>In order to create a upload a picture/s on existing topic</li>
+	<li>As an existing user<br/>
+  3.I try to select a picture file/s and upload it.</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'><b>Preconditions:</b></td>
+<td class='confluenceTd'><ol>
+	<li>Staging forum:<br/>
+<a href="https://stage-forum.telerikacademy.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://stage-forum.telerikacademy.com/</a> </li>
+	<li>An existing user that is successfully registered and logged in</li>
+	<li>The user has access to the forum section where they can create a new comment</li>
+</ol>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Test Steps:</b></td>
+<td class='confluenceTd'><b>Data:</b></td>
+<td class='confluenceTd'><b>Expected result:</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>1.Click on “My Post”</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.Select a topic from the proposals</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.Click on a topic</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.Click the button 'Reply'</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A window for the creation of a Forum pup-up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.Enter a valid body content for the new comment in the provided field(.</td>
+<td class='confluenceTd'>"Let's upload a doggo!"</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6.Click on the “Upload” button.</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>1.A pop-up window for selecting a file pops up.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>7.Select an invalid picture file in the allowed format and click on the “Open” button from the pop-up window.</td>
+<td class='confluenceTd'>a renamed text file, with .PNG extension</td>
+<td class='confluenceTd'>1.After selecting and clicking on “Open” button an error message “Sorry, but we couldn't determine the size of the image. Maybe your image is corrupted?” is shown.</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>2.The picture files are not uploaded.|</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10011"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63cd6d7f8c3018ca8a1afdfe"
+                id="word_commented_63cd6d7f8c3018ca8a1afdfe"
+                href="https://trainingsoftuni1.atlassian.net/secure/ViewProfile.jspa?accountId=63cd6d7f8c3018ca8a1afdfe">
+                    Krasen Kochev
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">09/Jul/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10011"><td bgcolor="#ffffff">
+            <p>The allowed minimum pic files are 1 and maximum 5 , the allowed format is JPG, JPEG, PNG.</p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sun Jul 09 17:17:47 UTC 2023 by Krasen Kochev using Jira 1001.0.0-SNAPSHOT#100230-sha1:acc9c6faa431835e3d60324266cd68ad895e617d.
+
+</body>
+</html>
